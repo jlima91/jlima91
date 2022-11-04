@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying at **42 Málaga**
 - 🌱 I’m currently learning **C, C++, Python and AWS**
 - 🎓 Master's in Mechanical Engineering
-- 📫 How to reach me: [linkedin](www.linkedin.com/in/joãoazevedolima)
+- 📫 How to reach me: [linkedin]([www](https://linkedin.com/in/joãoazevedolima)
 
 ---
 
