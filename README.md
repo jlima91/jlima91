@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at **42 Málaga**
 - 🌱 Background in C and C++  
-- 🌱 I’m currently learning **C# (.NET and ASP.NET) and AWS**
+- 🌱 I’m currently learning **C# (.NET) and AWS**
 - 🎓 Master's in Mechanical Engineering
 - 📫 How to reach me: [linkedin](https://linkedin.com/in/joãoazevedolima)
 
