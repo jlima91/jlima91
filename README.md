@@ -4,11 +4,10 @@
 
 ---
 
-#### Currently studying to become a Full Stack Developer 💻
+#### Working as a DevOps Engineer 💻
 
 ---
 
-- 🔭 I’m currently studying at **42 Málaga**
 - 🌱 Background in C and C++  
 - 🌱 Currently working in **C# (.NET) and AWS**
 - 🎓 Master's in Mechanical Engineering
